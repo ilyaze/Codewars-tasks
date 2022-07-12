@@ -1,6 +1,4 @@
 def find_uniq(arr):
-    a = []
-    
     if arr[0] == arr[1]:
         a = arr[0]
     elif arr[1] == arr[2]:
